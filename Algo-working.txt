@@ -1,0 +1,3 @@
+Implemented the Diffie-Hellman protocol in Matlab. 
+It picks the prime numbers P and G randomly for both users A and B and is able to calculate the common value.
+It ensures that the random numbers entered by a user are primes.
